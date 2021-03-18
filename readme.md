@@ -1,5 +1,7 @@
 # Temperature Converter
 
+Using HTML, CSS, and JavaScript to make a temperature converter.
+
 We will be using JavaScript to make a temperature conversion utility. A folder is provided for you, with empty HTML and CSS files.
 
 ## Getting Started
